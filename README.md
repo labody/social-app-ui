@@ -7,4 +7,4 @@ A Flutter implementation of a UI from Dribbble
 ![Original UI](assets/images/original-ui.png)
 
 # Screenshots
-![feed](assets/images/feed.png) ![notifications](assets/images/notifications.png)
+![feed](assets/images/feed.png width=200 height=400)![notifications](assets/images/notifications.png width=200 height=400)
